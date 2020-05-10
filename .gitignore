@@ -1,2 +1,5 @@
+_cudacache
+*.pkl
+debug.py
 /.stylegan2-cache/
 __pycache__/
